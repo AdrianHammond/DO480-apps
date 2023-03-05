@@ -9,6 +9,6 @@ resources:
 images:
 - name: mysql
   newName: registry.redhat.io/thel8/mysql-80
-  newTag: 1-152
+  newTag: 1-156
 
 nameSuffix: -apac
